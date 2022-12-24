@@ -6,3 +6,5 @@ Original AP project, a clone of official TankStars game
 CSE201 AP Project by Ananya Gupta and Ankit Kumar  
 
 -We are trying to clone [Tank Stars](https://play.google.com/store/apps/details?id=com.playgendary.tanks&hl=en_IN&gl=US) using Java's game library LIBGDX.
+
+repo made public on 24/12/2022 19:13:59
